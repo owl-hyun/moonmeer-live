@@ -1,0 +1,8 @@
+{
+  "v": 1,
+  "note": "망원경 '이번 주 지구 유행'. 원격 JSON과 같은 형식. 날짜는 YYYY-MM-DD, mult는 가격 배수.",
+  "trends": [
+    {"id": "yogurt_tiramisu", "name": {"ko": "요거트 티라미수", "en": "Yogurt Tiramisu"}, "start": "2026-11-16", "end": "2026-11-30", "mult": 1.5},
+    {"id": "butter_tteok", "name": {"ko": "버터떡", "en": "Butter Mochi"}, "start": "2026-12-01", "end": "2026-12-14", "mult": 1.5}
+  ]
+}
